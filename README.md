@@ -5,6 +5,6 @@ Após a conclusão dos cursos de CSS da Dio
 <p>    - Fundamentos do CSS;</p>
 <p>    - Estilizações Básicas com CSS;</p>
 <p>    - Unidades de Medida;</p>
-  <p> recebemos o desafio de recriar uma landing page de um protótipo no figma.
+  <p> recebemos a missão de recriar uma landing page de um protótipo no figma.
   <br>
-  <p> Acesse aqui o resultado deste desafio: https://lais-lfs.github.io/trilha-css-desafio/
+  <p> Acesse aqui o resultado: https://lais-lfs.github.io/trilha-css-desafio/
